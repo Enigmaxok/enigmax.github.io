@@ -12,6 +12,7 @@ const App = () => {
         <div className="background-container" />
     <Router>
         <Header />
+
         <div className="content-container">
           <Routes>
             <Route path="/" element={<Home/>} />
