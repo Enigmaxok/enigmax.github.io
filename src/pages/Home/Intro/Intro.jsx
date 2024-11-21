@@ -15,7 +15,7 @@ const Intro = () => {
           <p >¡Viví una experiencia teatral única! Resolvé enigmas, interrogá sospechosos y descifra pistas para atrapar al asesino.</p>
         </div>
         <button>
-  <a href="https://www.eventbrite.com.ar/o/enigmax-72358799663"  target="_blank">Reservá tu lugar</a>
+  <a href="https://tickets.enigmaxoficial.com/" target="_blank">Reservá tu lugar</a>
 </button>
         </div>
       </div>
